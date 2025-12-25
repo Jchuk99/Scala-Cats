@@ -45,6 +45,6 @@ object PrintableSyntax {
     printer.format(value)
 
   def print(implicit printer: Printable[A]): Unit =
-    println(printer.format(value))
+    println(format(printer))
   }
 }
