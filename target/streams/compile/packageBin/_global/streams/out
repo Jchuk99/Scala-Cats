@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\cats-sandbox_3-0.0.1-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	printable[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\printable[0m
+[0m[[0m[0mdebug[0m] [0m[0m	printable\Printable$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\printable\Printable$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	printable\Printable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\printable\Printable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	printable\Printable.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\printable\Printable.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	printable\PrintableInstances$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\printable\PrintableInstances$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	printable\PrintableInstances$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\printable\PrintableInstances$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	printable\PrintableInstances$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\printable\PrintableInstances$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	printable\PrintableInstances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\printable\PrintableInstances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	printable\PrintableInstances.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\printable\PrintableInstances.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\sandbox[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox\Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\sandbox\Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox\Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\sandbox\Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox\Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\sandbox\Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox\main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\sandbox\main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox\main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Udoka\cats-sandbox\target\scala-3.3.6\classes\sandbox\main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
